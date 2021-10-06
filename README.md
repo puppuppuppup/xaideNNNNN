@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xaideNNNNN
+- 👀 I’m interested in getting some experience in coding projects!
+- 🌱 I’m currently learning java coding
